@@ -1,2 +1,1 @@
-# PRINCE_-CLIENT
-Prince client 
+PRINCE_CLIENT │ ├── .github │   └── workflows │       └── build-apk.yml │ ├── app │   ├── build.gradle.kts │   └── src │ ├── artwork ├── build.gradle.kts ├── gradle.properties ├── settings.gradle.kts └── README.md
